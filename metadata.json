@@ -1,0 +1,5 @@
+{
+  "name": "PINN STUDIO VEO 2 GENERATOR",
+  "description": "An AI-powered application to automatically generate high-quality videos from text prompts using Google's VEO model. Features a prompt generation assistant and a streamlined workflow for creating multiple videos.",
+  "requestFramePermissions": []
+}
